@@ -1,0 +1,37 @@
+  {
+        "remote":      "github",
+        "repository":  "cooks8/device_samsung_smdk4412-common",
+        "target_path": "device/samsung/smdk4412-common",
+        "branch":      "lp5.1"
+    },
+    {
+        "remote":      "github",
+        "repository":  "cooks8/device_samsung_lt01-common",
+        "target_path": "device/samsung/lt01-common",
+        "branch":      "lp5.1"
+    },
+    {
+        "remote":      "github",
+        "repository":  "cooks8/device_samsung_lt013g",
+        "target_path": "device/samsung/lt013g",
+        "branch":      "lp5.1"
+    },
+    {
+        "remote":      "github",
+        "repository":  "cooks8/kernel_samsung_smdk4x12",
+        "target_path": "kernel/samsung/smdk4x12",
+        "branch":      "lp5.1"
+    },
+    {
+        "remote":      "github",
+        "repository":  "cooks8/hardware_samsung",
+        "target_path": "hardware/samsung",
+        "branch":      "lp5.1"
+    },
+    {
+        "remote":      "github",
+        "repository":  "cooks8/proprietary_vendor_samsung",
+        "target_path": "vendor/samsung",
+        "branch":      "lp5.1"
+    }   
+]
