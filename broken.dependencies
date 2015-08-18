@@ -12,12 +12,6 @@
     },
     {
         "remote":      "github",
-        "repository":  "cooks8/device_samsung_lt013g",
-        "target_path": "device/samsung/lt013g",
-        "branch":      "lp5.1"
-    },
-    {
-        "remote":      "github",
         "repository":  "cooks8/kernel_samsung_smdk4x12",
         "target_path": "kernel/samsung/smdk4x12",
         "branch":      "lp5.1"
